@@ -3,7 +3,7 @@
 
 # In[16]:
 
-
+# This was developed in JUPYTER, each "ln[]" you see is a cell where you run an individual piece of code
 get_ipython().system('pip install tesseract')
 
 
@@ -83,22 +83,3 @@ get_ipython().system('pip install pytesseract')
 import pytesseract
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract' #Download it on your PC and put the path, it might change
 print(pytesseract.image_to_string(r'imagen.jpg')) #With the name of your image
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
