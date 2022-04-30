@@ -1,2 +1,2 @@
 # ImageToTextPy
-Convert Image to text without pytesseract, used in jupyter
+Convert Image to text, used in jupyter
